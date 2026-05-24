@@ -90,3 +90,14 @@ lib/
 └── main.dart
 ```
 ````
+# 🌍 Travel Planner Application
+
+A clean, modern, and user-friendly mobile web application built to streamline travel coordination. Users can create accounts, track upcoming trips, review past historical trips, check live weather updates, and build detailed day-by-day itineraries with integrated group chat functionality.
+
+---
+
+## 📱 Application Gallery & Screenshots
+
+Here is the complete user flow of the application, showing everything from the initial login and registration screens to the main planning dashboards and itinerary builders.
+
+<img width="620" height="884" alt="Screenshot 2026-05-23 222402" src="https://github.com/user-attachments/assets/64868725-7dba-4926-bd1a-957462218633" />
