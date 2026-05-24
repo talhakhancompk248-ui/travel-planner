@@ -11,7 +11,10 @@ Get started by setting up a brand new profile or securely logging into an existi
 
 | Welcome Back (Login) | Join Travel Planner (Sign Up) |
 | :---: | :---: |
-| <img src="./screenshots/Screenshot 2026-05-23 221507.png" width="350"> | <img src="./screenshots/Screenshot 2026-05-23 221520.png" width="350"> |
+<img width="621" height="875" alt="Screenshot 2026-05-23 221507" src="https://github.com/user-attachments/assets/15ae44f2-0a4d-4430-baad-392650c69ddc" />
+<img width="618" height="888" alt="Screenshot 2026-05-23 221520" src="https://github.com/user-attachments/assets/956c65a8-1295-456d-81f3-b2d0ebb92614" />
+
+
 | Secure access using an email address and password profile. | Quick registration form to set up a new free account. |
 
 ---
