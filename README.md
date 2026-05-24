@@ -90,14 +90,35 @@ lib/
 └── main.dart
 ```
 ````
-# 🌍 Travel Planner Application
+# 📱 Screenshots
 
-A clean, modern, and user-friendly mobile web application built to streamline travel coordination. Users can create accounts, track upcoming trips, review past historical trips, check live weather updates, and build detailed day-by-day itineraries with integrated group chat functionality.
+## Login Screen
+![Login Screen](<img width="621" height="875" alt="Screenshot 2026-05-23 221507" src="https://github.com/user-attachments/assets/d0136d3e-aacf-40a6-a23f-802dc97c3f8a" />
+)
 
----
+## Create Account
+![Create Account](<img width="618" height="888" alt="Screenshot 2026-05-23 221520" src="https://github.com/user-attachments/assets/24b88f42-efb0-414f-859a-263471aea30b" />
+)
 
-## 📱 Application Gallery & Screenshots
+## My Trips
+![My Trips](<img width="618" height="888" alt="Screenshot 2026-05-23 221520" src="https://github.com/user-attachments/assets/7f109b4f-e467-4343-bbdc-54d1b74a11cf" />
+)
 
-Here is the complete user flow of the application, showing everything from the initial login and registration screens to the main planning dashboards and itinerary builders.
+## Explore
+![Explore](<img width="609" height="885" alt="Screenshot 2026-05-23 222328" src="https://github.com/user-attachments/assets/60cbfdc6-57b8-41d9-b50c-79404a39a8ee" />
+)
 
-<img width="620" height="884" alt="Screenshot 2026-05-23 222402" src="https://github.com/user-attachments/assets/64868725-7dba-4926-bd1a-957462218633" />
+## Trip Details
+![Trip Details](<img width="609" height="895" alt="Screenshot 2026-05-23 222303" src="https://github.com/user-attachments/assets/c92200fa-8411-4712-8a16-45cd2aa9bc16" />
+)
+
+## Itinerary
+![Itinerary](<img width="623" height="890" alt="Screenshot 2026-05-23 222243" src="https://github.com/user-attachments/assets/a5e21d63-1f50-420a-97ee-dd08eaef27aa" />
+)
+
+## History
+![History](<img width="608" height="871" alt="Screenshot 2026-05-23 222345" src="https://github.com/user-attachments/assets/b7d10592-2491-4367-9827-9a34a9bb89b6" />
+)
+
+
+
